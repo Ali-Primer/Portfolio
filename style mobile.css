@@ -1,0 +1,46 @@
+@media only screen and (max-width:375px) {
+body{
+    width: 320px;
+}
+.me{
+    position: absolute;
+    top: 0px;
+    left: 90px;
+}
+.h21{
+    position: absolute;
+    top: 700px;
+    width: 100%;
+    word-wrap: break-word;
+}
+.designer{
+    position: absolute;
+    top: 30px;
+    left: 200px
+}
+.lorem1{
+    position: absolute;
+    top: 820px;
+}
+.hello{
+    position: absolute;
+    top: -450px;
+    left: 155px;
+}
+#sample{
+    position: absolute;
+    top: 900px;
+    left: 270px;
+}
+.hr1{
+    position: absolute;
+    top: 910px;
+    width: 80%;
+    left: 250px;
+}
+.container-kar{
+    margin-top: 590px;
+    width: 320px;
+}
+
+}
